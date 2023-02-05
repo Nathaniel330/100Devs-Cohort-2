@@ -27,5 +27,5 @@ Unavailable at the moment
 | 64 | [Speed Run Getting a Job]() |  |  |  |
 | 65 | [Speed Run Getting a Job 2]() |  |  | [Check-in](https://twitter.com/leonnoel/status/1588282168127590401) |
 | 66 & 67 | No Class |  |  |  |
-| 68 | [How to Get a Job]() |  | [Check-in](https://twitter.com/leonnoel/status/1481030723347746816) |
+| 68 | [How to Get a Job]() |  |  | [Check-in](https://twitter.com/leonnoel/status/1481030723347746816) |
 | 69 | [Last Class]() |  |  | [Check-in](https://twitter.com/leonnoel/status/1590804107476234240) |
