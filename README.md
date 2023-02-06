@@ -7,6 +7,40 @@
 | 3 | [Learn More HTML!](https://youtu.be/rdWM6kUImjE) | [class03-materials.zip](https://drive.google.com/file/d/1jq4KyRu8_-8la9-kPC7MpvEi_RAP8jtn/view) | [html-even-more-basics](https://slides.com/leonnoel/100devs2-html-even-more-basics) | [Check-in](https://twitter.com/leonnoel/status/1483567676626653185) |
 | 4 | [Learn CSS!](https://youtu.be/Q1Obtn29twk) | [class04-materials.zip](https://drive.google.com/file/d/1nb5QadNC2Z1x2oqH9zIMZFVbYjarM5Br/view) | [css-the-basics](https://slides.com/leonnoel/100devs2-css-the-basics) | [Check-in](https://twitter.com/leonnoel/status/1484292275064631297) |
 | 5 | [Learn CSS Layout!](https://youtu.be/E6Z8cWU_fjI) | [class05-materials.zip](https://drive.google.com/file/d/1bCfEIHVAXuDo_XERIoog1bcuJfIqrgpv/view) | [css-more-basics](https://slides.com/leonnoel/100devs2-css-more-basics) | [Check-in](https://twitter.com/leonnoel/status/1486104346227970050) |
+| 6 | [Let's Review HTML & CSS!](https://youtu.be/L55ax0blZY0) | [class06-materials.zip]() |  | [Check-in]() |
+| 7 | [Learn Responsive CSS!](https://youtu.be/k8r3B0JGMt4) | [class07-materials.zip]() |  | [Check-in]() |
+| 8 | [Write Bad CSS!](https://youtu.be/PWVRSXQxsXc) |  | [class08-materials.zip]() | [Check-in]() |
+| 9 | [Networking Night!](https://youtu.be/OaglXfjsBaE) | [class09-materials.zip]() |  | [Check-in]() |
+| 10 | [Rant & Review!](https://youtu.be/WftjV2L7oyk) | [class10-materials.zip]() |  | [Check-in]() |
+| 11 | [Learn CSS Layout & Flexbox!](https://youtu.be/qEj0pXGVwjY) | [class11-materials.zip]() |  | [Check-in]() |
+| 12 | [Learn JavaScript!](https://youtu.be/_A20kVsaqIk) | [class12-materials.zip]() |  | [Check-in]() |
+| 13 | [Fun JavaScript Examples!](https://youtu.be/pS6ykGL-fRE) | [class13-materials.zip]() |  | [Check-in]() |
+| 14 | [JavaScript Functions For Beginners!](https://youtu.be/cBWUvTZPeKw) | [class14-materials.zip]() |  | [Check-in]() |
+|  | []() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 16 | [Learn JavaScript Loops!](https://youtu.be/av6iPI_zJTU5) | [class16-materials.zip]() |  | [Check-in]() |
+| Super Review | [Frontend Crash Course!](https://youtu.be/AkXLGS57MS4) | [class-materials.zip]() |  | [Check-in]() |
+| 19 | [Learn JavaScript Arrays!](https://youtu.be/YUQUGtUbwMY) | [class19-materials.zip]() |  | [Check-in]() |
+| 20 | [Practice JavaScript Arrays!](https://youtu.be/cL0qP6kM_1U) | [class20-materials.zip]() |  | [Check-in]() |
+| 21 | [Learn JavaScript Objects!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 22 | [Practice JavaScript Objects!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 23 | [JavaScript APIs For Beginners!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 24 | [Git and Github For Beginners!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 25 | [Fix Your Resume So You Get Tech Interviews!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 26 | [Build A Simple App Using APIs!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 27 | [Get Data From NASA!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 28 | [JavaScript API Practice For Beginners!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 29 | [Review The Basics Of JavaScript!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 30 | [OOP But It Actually Makes Sense!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 31 | [What Is Inheritance & Polymorphism?]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 32 | [Object Oriented Programming w/ JS Review!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 33 | [Why You Are Not Getting Interviews!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 34 | [Crush Your Technical Interviews!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| Super Review | [JavaScript Crash Course]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 35 | [Easy Intro to Node, Promises, & Async / Await]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 36 | [JavaScript Event Loop For Beginners!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 37 | [No Express! Fullstack App Just Node!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 38 | [Build Your Own API HOSTED]() | [class-materials.zip]() | [slide]() | [Check-in]() |
+| 39 | [CRUD APIs For Beginners!]() | [class-materials.zip]() | [slide]() | [Check-in]() |
 | 40 | [What is MongoDB? CRUD Apps for Beginners!](https://youtu.be/3eafTTnEfMw) |  | [Express & CRUD](https://slides.com/leonnoel/100devs2-express-crud) | [Check-in](https://twitter.com/leonnoel/status/1534286728218804224) |
 | 41 | [Build A Simple CRUD App With Express, MongoDB, & EJS!](https://youtu.be/LHf_STV_rLE) |  | [Express & CRUD & You](https://slides.com/leonnoel/100devs2-express-crud-cohort-2) | [Check-in](https://twitter.com/leonnoel/status/1535011532551049216) |
 | 42 & 43 | No Class |  |  |  |
