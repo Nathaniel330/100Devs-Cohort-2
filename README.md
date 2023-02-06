@@ -18,7 +18,7 @@
 | 14 | [JavaScript Functions For Beginners!](https://youtu.be/cBWUvTZPeKw) | [class14-materials.zip]() |  | [Check-in]() |
 |  | []() | [class-materials.zip]() | [slide]() | [Check-in]() |
 | 16 | [Learn JavaScript Loops!](https://youtu.be/av6iPI_zJTU5) | [class16-materials.zip]() |  | [Check-in]() |
-| Super Review | [Frontend Crash Course!](https://youtu.be/AkXLGS57MS4) | [class-materials.zip]() |  | [Check-in]() |
+| Super Review | [Frontend Crash Course!](https://youtu.be/AkXLGS57MS4)   | [Check-in]() |
 | 19 | [Learn JavaScript Arrays!](https://youtu.be/YUQUGtUbwMY) | [class19-materials.zip]() |  | [Check-in]() |
 | 20 | [Practice JavaScript Arrays!](https://youtu.be/cL0qP6kM_1U) | [class20-materials.zip]() |  | [Check-in]() |
 | 21 | [Learn JavaScript Objects!](https://www.youtube.com/watch?v=75TQEQ6wxAE&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=20) | [class-materials.zip]() | [slide]() | [Check-in]() |
