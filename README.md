@@ -1,4 +1,9 @@
-# #100Devs-Follow-Along-Materials
+# #100Devs Follow-along Materials
+This repository was made because I wanted to access the cohort materials in a single page. This was made possible using [#communitytaught](https://communitytaught.org/class/all) as a guide then made the revisions I wanted. <br><br>
+This page also makes it possible to easily download all the materials just by cloning the repo (~MB).
+
+#### For homeworks, I recommend visiting [https://communitytaught.org/hw/all](https://communitytaught.org/hw/all).
+
 
 | CLASS | VIDEO | FOLLOW-ALONG MATERIALS | SLIDES | CHECK-IN |
 | :---: | --- | --- | --- | :---: | 
