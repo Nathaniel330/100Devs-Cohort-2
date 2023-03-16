@@ -66,7 +66,7 @@ This page also makes it possible to easily download all the materials just by cl
 Unavailable at the moment
 | CLASS | VIDEO | FOLLOW-ALONG MATERIALS | SLIDES | CHECK-IN |
 | :---: | --- | --- | --- | :---: | 
-| 64 | [Speed Run Getting a Job]() |  |  | NONE |
+| 64 | [Speed Run Getting a Job](https://youtu.be/plT838Ujxi0) |  |  | NONE |
 | 65 | [Speed Run Getting a Job 2]() |  |  | [Check in](https://twitter.com/jlengstorf/status/1585004985527721985) |
 | 66 & 67 | No Stream |  |  | NONE |
 | 68 | [How to Get a Job]() |  |  | [Check in](https://twitter.com/leonnoel/status/1588282168127590401) |
