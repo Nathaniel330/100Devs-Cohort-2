@@ -1,6 +1,9 @@
 # #100Devs Follow-along Materials
 This repository was made because I wanted to access the cohort materials in a single page. This was made possible using [#communitytaught](https://communitytaught.org/class/all) as a guide then made the revisions I wanted. <br><br>
-This page also makes it possible to easily download all the materials just by cloning the repo (~80MB) and downloading the zipped folder.
+This project also makes it possible to easily download all the materials.
+1. ```Fork``` the repository 
+2. Then ```Clone``` it (~80MB) 
+3. Extract the ```class-materials.zip``` file
 
 #### For homeworks, I recommend visiting [https://communitytaught.org/hw/all](https://communitytaught.org/hw/all).
 
@@ -60,14 +63,8 @@ This page also makes it possible to easily download all the materials just by cl
 | 58 | [React JS Tutorial For Beginners](https://youtu.be/edsuuCsiah0) |  |  | [Check-in](https://twitter.com/leonnoel/status/1575599063075987457) |
 | 59 & 60 | No Stream |  |  | NONE |
 | 61 - 63 | [How To ACE Your Technical Interviews - Easy Data Structures, Algorithms, & PREP!](https://youtu.be/FS7UxmzYF_M) |  | [interview-secrets](https://slides.com/leonnoel/100devs2-interview-secrets) <br /> [ds-and-algorithms](https://slides.com/leonnoel/100devs2-intro-ds-algorithms/) <br /> [big-o](https://slides.com/leonnoel/100devs2-big-o) | [Check&nbsp;in&nbsp;1](https://twitter.com/helloitsrufio/status/1579483421402976256) <br /> [Check&nbsp;in&nbsp;2](https://twitter.com/mayanwolfe/status/1580231634271768576) <br /> [Check&nbsp;in&nbsp;3](https://twitter.com/BlawblawLaw/status/1582051606614355974) |
-
-<br /><br />
-
-Unavailable at the moment
-| CLASS | VIDEO | FOLLOW-ALONG MATERIALS | SLIDES | CHECK-IN |
-| :---: | --- | --- | --- | :---: | 
-| 64 | [Speed Run Getting a Job](https://youtu.be/plT838Ujxi0) |  |  | NONE |
-| 65 | [Speed Run Getting a Job 2]() |  |  | [Check in](https://twitter.com/jlengstorf/status/1585004985527721985) |
+| 64 | [Getting A Software Engineering Job Speedrun Any% Unrestricted](https://youtu.be/plT838Ujxi0) |  |  | NONE |
+| 65 | [Networked My Way Into 30 Engineering Jobs](https://youtu.be/epKshUbcaj0) |  |  | [Check in](https://twitter.com/jlengstorf/status/1585004985527721985) |
 | 66 & 67 | No Stream |  |  | NONE |
-| 68 | [How to Get a Job]() |  |  | [Check in](https://twitter.com/leonnoel/status/1588282168127590401) |
-| 69 | [Last Class]() |  |  | [Check in](https://twitter.com/leonnoel/status/1590804107476234240) |
+| 68 | [How To Get Your FIRST Software Engineering Job]() |  |  | [Check in](https://twitter.com/leonnoel/status/1588282168127590401) |
+| 69 | [Our Last Class — #100Devs]() |  |  | [Check in](https://twitter.com/leonnoel/status/1590804107476234240) |
